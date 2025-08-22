@@ -24,7 +24,7 @@ export const NAV_LINKS = [
 ]
 export const SOCIAL_LINKS = [
   {
-    href: 'https://facebook.com/your-profile',
+    href: 'https://www.facebook.com/tuanhung.ly.374',
     label: 'Facebook',
     Icon: FaFacebook,
     hover: 'hover:text-blue-600 dark:hover:text-blue-400',
@@ -36,7 +36,7 @@ export const SOCIAL_LINKS = [
     hover: 'hover:text-pink-600 dark:hover:text-pink-400',
   },
   {
-    href: 'https://github.com/your-profile',
+    href: 'hunggithub.com/HungLamDev',
     label: 'Github',
     Icon: FaGithub,
     hover: 'hover:text-gray-900 dark:hover:text-white',

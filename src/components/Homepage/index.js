@@ -29,7 +29,7 @@ function HomepageHeader() {
           <span className='mb-1 block'>{siteConfig.tagline}</span>
           <Link
             href='https://github.com/namnguyenthanhwork/docusaurus-tailwind-shadcn-template'
-            className='text-blue-700 dark:text-green-700'
+            className='text-gray-700 '
           >
             Please read README.md for more about project information
           </Link>
@@ -50,8 +50,8 @@ export default function Home({ homePageBlogMetadata, recentPosts }) {
 
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description='Description will go into a meta tag in <head />'
+      title={`HungLamDev`}
+      //description='Description will go into a meta tag in <head />'
     >
       <HomepageHeader />
       <main>

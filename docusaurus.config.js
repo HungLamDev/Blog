@@ -1,7 +1,7 @@
 // @ts-check
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Docusaurus Tailwind Shadcn/ui',
+  title: 'Blog On Tech ',
   tagline: 'Templates Docusaurus with Tailwind CSS and Shadcn/ui',
   favicon: 'img/favicon.ico',
 
@@ -9,7 +9,7 @@ const config = {
   baseUrl: '/',
 
   organizationName: 'namnguyenthanhwork',
-  projectName: 'docusaurus-tailwind-shadcn-template',
+  projectName: 'Blog on Tech',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -183,7 +183,7 @@ const config = {
         id: 'deployment-series',
         path: 'series/deployment',
         routeBasePath: '/series/deployment',
-        blogTitle: 'Web Deployment ',
+        blogTitle: 'Deployment ',
         blogDescription: 'Series chia sẻ kiến thức về phát triển website (Web Development)',
         blogSidebarCount: 'ALL',
         blogSidebarTitle: 'List deployment',
@@ -217,7 +217,7 @@ const config = {
         id: 'front-end',
         path: 'series/front-end',
         routeBasePath: '/series/front-end',
-        blogTitle: 'front-end ',
+        blogTitle: 'Front-end ',
         blogDescription: 'Series chia sẻ kiến thức về phát triển website (Web Development)',
         blogSidebarCount: 'ALL',
         blogSidebarTitle: 'List deployment',
@@ -234,7 +234,7 @@ const config = {
         id: 'templates',
         path: 'series/templates',
         routeBasePath: '/series/templates',
-        blogTitle: 'templates ',
+        blogTitle: 'Templates ',
         blogDescription: 'Series chia sẻ kiến thức về phát triển website (Web Development)',
         blogSidebarCount: 'ALL',
         blogSidebarTitle: 'List deployment',
@@ -251,7 +251,7 @@ const config = {
         id: 'framework',
         path: 'series/framework',
         routeBasePath: '/series/framework',
-        blogTitle: 'framework',
+        blogTitle: 'Framework',
         blogDescription: 'Series chia sẻ kiến thức về phát triển website (Web Development)',
         blogSidebarCount: 'ALL',
         blogSidebarTitle: 'List deployment',
@@ -268,7 +268,7 @@ const config = {
         id: 'thuat-toan',
         path: 'series/thuat-toan',
         routeBasePath: '/series/thuat-toan',
-        blogTitle: 'thuat-toan',
+        blogTitle: 'Thuật toán',
         blogDescription: 'Series chia sẻ kiến thức về phát triển website (Web Development)',
         blogSidebarCount: 'ALL',
         blogSidebarTitle: 'List deployment',
@@ -276,7 +276,7 @@ const config = {
         include: ['**/*.md', '**/*.mdx'],
         editUrl:
           'https://github.com/namnguyenthanhwork/docusaurus-tailwind-shadcn-template/tree/main/series/deployment',
-        remarkPlugins: [[require('@docusaurus/remark-plugin-npm2yarn'), { sync: true }]],
+        remarkPlugins: [[require('@docusaurus/remark-plugin-npm2yarn'), { sync: true }]]
       }
     ],
     [
@@ -284,8 +284,8 @@ const config = {
       {
         id: 'about',
         path: 'about',
-        routeBasePath: 'about',
-        blogTitle: 'about ',
+        routeBasePath: '/about',
+        blogTitle: 'About',
         blogDescription: 'Series chia sẻ kiến thức về phát triển website (Web Development)',
         blogSidebarCount: 'ALL',
         blogSidebarTitle: 'List deployment',

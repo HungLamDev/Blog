@@ -36,11 +36,11 @@ export default function NavbarLayout({ children }) {
     <>
       <AnnouncementBar />
       <header // Thêm id để hook TOC tìm thấy
-        className='navbar px-16 sticky z-30 border-b bg-background pb-2 pt-2 text-foreground shadow-sm dark:border-gray-800'
+        className='navbar md:px-16 sticky z-30 border-b bg-background pb-2 pt-2 text-foreground shadow-sm dark:border-gray-800'
         style={{ height: 'auto' }}
       >
         <div className='w-full lg:px-6'>
-          <div className='relative flex h-16 items-center'>
+          <div className='relative flex h-16  justify-between items-center'>
             {/* Logo - Desktop */}
             <div className='flex-1'>
               <Link to='/' className='hidden items-center md:flex'>
