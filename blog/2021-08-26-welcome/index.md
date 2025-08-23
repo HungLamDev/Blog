@@ -1,10 +1,11 @@
 ---
+image: https://res.cloudinary.com/thanhnam/image/upload/v1736787946/project/docusaurus-tailwind-shadcn-template/blog_vep2ri.jpg
 slug: welcome
 title: Welcome
-image: https://res.cloudinary.com/thanhnam/image/upload/v1736787946/project/docusaurus-tailwind-shadcn-template/blog_vep2ri.jpg
 authors: [slorber, yangshun, thanhnamnguyen]
 tags: [facebook, hello, docusaurus]
 ---
+![Blog Banner](https://res.cloudinary.com/thanhnam/image/upload/v1736787946/project/docusaurus-tailwind-shadcn-template/blog_vep2ri.jpg)
 
 [Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
 

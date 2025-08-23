@@ -5,7 +5,7 @@ image: https://res.cloudinary.com/thanhnam/image/upload/v1736787946/project/docu
 authors: [endi, yangshun]
 tags: [hello, docusaurus]
 ---
-
+![Blog Banner](https://res.cloudinary.com/thanhnam/image/upload/v1736787946/project/docusaurus-tailwind-shadcn-template/blog_vep2ri.jpg)
 
 Nội dung bài viết...
 

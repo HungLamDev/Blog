@@ -5,9 +5,7 @@ image: https://blog.thanhnamnguyen.dev/_next/image?url=https%3A%2F%2Fcdn.hashnod
 authors: [endi]
 tags: [cloudflare, deploy, tutorial]
 ---
-<div className="w-full">
-  <img src="/img/cloudflare-banner.png" alt="Cloudflare Pages" className="rounded-xl shadow-md mb-6" />
-</div>
+
 ![Cloudflare Pages](https://cdn.hashnode.com/res/hashnode/image/upload/v1711217760169/OfI6ARj_Q.jpg?w=800&amp;fit=crop&amp;crop=entropy&amp;auto=compress,format&amp;format=webp)
 Nội dung bài viết...
 
@@ -22,7 +20,7 @@ Use a `<!--truncate-->` comment to limit blog post size in the list view.
 
 Bài viết này sẽ hướng dẫn bạn deploy project lên Cloudflare Pages một cách đơn giản và miễn phí. Bên cạnh đó, mình sẽ chia sẻ những tính năng nổi bật nhất của Cloudflare.
 
-# 2. Cloudflare là gì?
+ # 2. Cloudflare là gì?
 Cloudflare là một nền tảng mạng phân phối nội dung (CDN) và bảo mật web phổ biến. Một trong những tính năng nổi bật là **Cloudflare Pages**, cho phép bạn triển khai dự án web tĩnh nhanh chóng, miễn phí.
 
 ## 3. Tính năng của Cloudflare Pages
